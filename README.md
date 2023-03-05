@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/yebigithub/yebigithub/blob/main/hello.gif" align="left">
+<img src="https://github.com/yebigithub/yebigithub/blob/main/hello.GIF" align="left">
   
   
 ### Hi there 👋
