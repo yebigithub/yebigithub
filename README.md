@@ -1,7 +1,7 @@
 <p align="left">
 <img src="https://github.com/yebigithub/yebigithub/blob/main/IMG_0726.GIF" align="left">
   
-<p align="left">
+<p align="right">
 
 ### Hi there 👋
 My name is Ye Bi.
