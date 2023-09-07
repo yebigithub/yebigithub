@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/yebigithub/yebigithub/blob/main/线条小狗_好朋友.gif" align="right" width='40%' height='40%'>
+<img src="https://github.com/yebigithub/yebigithub/blob/main/线条小狗_好朋友.gif" align="right" width='35%' height='35%'>
   
 <p align="left">
 
