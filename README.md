@@ -1,5 +1,5 @@
 <p align="left">
-<img src="./薯薯我啊.gif" align="right" width='35%' height='35%'>
+<img src="薯薯我啊1.gif" align="right" width='35%' height='35%'>
   
 <p align="left">
 
