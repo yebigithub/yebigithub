@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 My name is Ye Bi.
- - 📊 I recently defended my Ph.D. dissertation in the School of Animal Sciences at Virginia Tech and expect to graduate in December 2024. 
+ - 📊 I am a Postdoctoral Research Associate from Dr. Juan Steibel's group in the Department of Animal Science at Iowa State University.
  - 🌟 My research interests focus on incorporating artificial intelligence 🤖, computer vision 👁️, statistics 📈, phenomics 🔬, and genetics 🧬 to study animal 🐮🐷 and plant 🌱🌾sciences.
  - 📫 Know more about me: [My personal website](https://yebigithub.github.io/).
 
