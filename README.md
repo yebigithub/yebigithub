@@ -1,7 +1,7 @@
-<p align="left">
-<img src="moon.gif" align="left" width='35%' height='35%'>
+<p align="middle">
+<img src="moon.gif" align="middle" width='35%' height='35%'>
   
-<p align="left">
+<p align="middle">
 
 ### Hi there 👋
 My name is Ye Bi.
