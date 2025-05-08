@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="cloud.gif" align="middle" width='35%' height='35%'>
+<img src="cloud.gif" align="middle" width='55%'>
   
 <p align="middle">
 
