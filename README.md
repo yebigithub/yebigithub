@@ -1,5 +1,5 @@
 <p align="middle">
-<img src="earthwithmoon.webp" align="middle" width='45%'>
+<img src="earthwithmoon.webp" align="middle" width='35%'>
   
 <p align="middle">
 
