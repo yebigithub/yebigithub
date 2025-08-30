@@ -1,7 +1,7 @@
-<p align="middle">
-<img src="hello_winnie.gif" align="middle" width='70%'>
-  
-<p align="middle">
+<p align="center">
+  <img src="hello_winnie.gif" alt="Winnie GIF" width="30%" loop="infinite">
+</p>
+
 
 ### Hi there 👋
 My name is Ye Bi.
